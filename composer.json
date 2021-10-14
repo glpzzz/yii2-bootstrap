@@ -1,6 +1,6 @@
 {
     "name": "yiisoft/yii2-bootstrap",
-    "description": "The Twitter Bootstrap extension for the Yii framework",
+    "description": "The Twitter Bootstrap extension for the Yii framework (with npm-assets)",
     "keywords": ["yii2", "bootstrap"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -33,7 +33,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.6",
-        "bower-asset/bootstrap": "3.4.* | 3.3.* | 3.2.* | 3.1.*"
+        "npm-asset/bootstrap": "3.4.* | 3.3.* | 3.2.* | 3.1.*"
     },
     "require-dev": {
         "cweagans/composer-patches": "^1.7",
