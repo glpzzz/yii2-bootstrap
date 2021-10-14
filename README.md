@@ -6,6 +6,8 @@
     <br>
 </p>
 
+**IMPORTANT:** This is just a fork to use NPM assets instead of Bower just to allow installation of `yii2-bootstrap` and `yii2-bootstrap5` in the same application. Why? Someone requested for a progressive migration...
+
 This is the Twitter Bootstrap extension for [Yii framework 2.0](http://www.yiiframework.com). It encapsulates [Bootstrap 3](http://getbootstrap.com/) components
 and plugins in terms of Yii widgets, and thus makes using Bootstrap components/plugins
 in Yii applications extremely easy.
